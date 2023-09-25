@@ -1,7 +1,11 @@
 using System;
 
-[Serializable]
-public struct PoolData
+
+namespace Data.UnityObjects 
 {
-    public byte RequiredObjectCount;
-}
+    [Serializable]
+    public struct PoolData
+    {
+        public byte RequiredObjectCount;
+    }
+} 
