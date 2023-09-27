@@ -1,10 +1,10 @@
-using Keys;
+using Runtime.Keys;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Signals
+namespace Runtime.Signals
 {
     public class InputSignals : MonoBehaviour
     {

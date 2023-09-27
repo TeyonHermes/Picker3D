@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Data.ValueObjects
+namespace Runtime.Data.ValueObjects
 {
 
     [SerializeField]

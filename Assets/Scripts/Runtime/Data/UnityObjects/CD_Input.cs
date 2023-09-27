@@ -1,9 +1,9 @@
 
-using Data.ValueObjects;
+using Runtime.Data.ValueObjects;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Data.UnityObjects
+namespace Runtime.Data.UnityObjects
 {
     [CreateAssetMenu(fileName = "CD_Input", menuName = "Picker3D/CD_Input", order = 0)]
     public class CD_Input : ScriptableObject
